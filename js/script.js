@@ -14,6 +14,3 @@ document.getElementById("trocarCorBtn").addEventListener("click", () => {
   boxCor.style.backgroundColor = novaCor;
   boxCor.textContent = novaCor;
 });
-while (true) {
-  console.log("oi");
-}
